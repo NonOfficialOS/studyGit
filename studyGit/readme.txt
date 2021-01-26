@@ -8,4 +8,4 @@ Git tracks change of files.
 Creating a new branch is quick on dev branch.
 Creating a new branch is quick and simple.
 Creating a new branch dev for testing no fast forward merge.
-Creating a new branch issue-001 to fix a bug.
+Creating a new branch issue-001 to fixed a bug.
